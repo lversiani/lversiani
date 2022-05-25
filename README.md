@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Letícia Versiani, desenvolvedora front-end em formação!
 
-##### Sou estudante de Análise e Desenvolvimento pelo Instituto Newton Paiva e apaixonada por tecnologia! Todos os meus projetos atuais condizem com o que estou aprendendo e aprimorando no momento, incluindo projetos pessoais e cursos feitos por contra própria em plataformas como Alura, DIO e Rocketseat.
+#### Sou estudante de Análise e Desenvolvimento pelo Instituto Newton Paiva e apaixonada por tecnologia! Todos os meus projetos atuais condizem com o que estou aprendendo e aprimorando no momento, incluindo projetos pessoais e cursos feitos por contra própria em plataformas como Alura, DIO e Rocketseat.
 
 <div align="center">
   <a href="https://github.com/lversiani">
